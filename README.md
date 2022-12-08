@@ -1,4 +1,4 @@
-# MSDS696_X70_Data-Science-Practicum-I
+# MSDS696_X70_Data-Science-Practicum-II
 
 ## CRIME DATA ANALYSIS-LOS ANGELES
 
@@ -12,18 +12,23 @@
 
   A. Project Introduction
   
+The year of 2020 had a historic rise of demonstrations across the United States calling to 'Defund the Police.' The funding trend of increasing police spending was reversed for the first time in years by reducing the Los Angeles Police Department (LAPD) budget by $150 million.
 
-
-
+In this project, we have analyzed the available crime data by simple exploratory data analysis and using Machine learning to predict the crimes that occur in Los Angeles.
 
 
   B. Problem Statement
   
-
+Los Angeles police department is one of the largest in the country, with jurisdiction of around 4 million people. Through this project we identified which areas and populations in LA have been hit the hardest by crime in past few years. Furthermore, this project studied the following business problem from the data:
+1. Crime changes during the time period of study
+2. Areas in LA with highest reported crime.
+3. Top impacted demographics in LA.
 
 
 **2. Data Collection**
 
+The crime data  Los Angles Crime data  for this project will be taken from the city of Los Angeles website.
+The data reflects incidents of crime in the City of Los Angeles
 
 
 **3. Generic Flow Of Project**
@@ -46,7 +51,7 @@ E. Predictions
 
 **5. Model Approach**
 
-For the analysis, we have done simple EDA based approach to find the top five cities with ROI percentage as well as used time series ARIMA model for predicting the ROI percentage and the top five cities. Whereas, performed EDA for exploring the other factors relationship during the same time period of time.  
+
 
 
 **6. Conclusion**
