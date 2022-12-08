@@ -2,6 +2,8 @@
 
 ## CRIME DATA ANALYSIS-LOS ANGELES
 
+![LA](https://user-images.githubusercontent.com/109038700/206540424-f08b1f3d-c7d2-4ad4-b768-d1594af751e6.jpeg)
+
 ### Regis University
 
 ### Author: Sangita Lamichhane
