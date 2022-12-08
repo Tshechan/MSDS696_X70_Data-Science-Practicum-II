@@ -61,10 +61,9 @@ For the analysis, we have done simple EDA based approach to answer the business 
 
 **7. Limitation and Future Considerations**
 
-Gather more historical data to help make stronger predictions and forecasts further into the future.
-Include exogenous variables from census data to add complexity to the univariate model.
-Implement a Facebook Prophet model for comparision and model evaluation.
-Use incoming data to evaluate our model's forecasting performance.
+Gathering more historical data could help make stronger predictions and forecasts further into the future.
+Furthermore, including exogenous variables from census data to add complexity to the univariate model will be insightful. Can implement a Facebook Prophet model for comparision and model evaluation.
+Additionally, use incoming data to evaluate our model's forecasting performance.
 
 **Data sources:**
 
