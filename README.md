@@ -54,8 +54,8 @@ We collected the datas and performed data cleaning. We check if there are any mi
 
 
 
- 
 **5. Model Approach**
+
 For the analysis, we have done simple EDA based approach to answer the business questions as well as used time series ARIMA model for predicting the crime. 
 
 **6. Conclusion**
