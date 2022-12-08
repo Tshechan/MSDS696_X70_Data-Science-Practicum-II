@@ -49,6 +49,11 @@ E. Predictions
 **4. EDA**
 
 We collected the datas and performed data cleaning. We check if there are any missig values and worked on those missing values as well as changing date format.    
+
+![Screen Shot 2022-12-08 at 3 38 02 PM](https://user-images.githubusercontent.com/109038700/206582058-31e0156c-f6a2-4a92-990b-0ab4739ead5d.png)
+
+
+
  
 **5. Model Approach**
 For the analysis, we have done simple EDA based approach to answer the business questions as well as used time series ARIMA model for predicting the crime. 
