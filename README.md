@@ -4,7 +4,7 @@
 
 ### Regis University
 
-###Author: Sangita Lamichhane
+### Author: Sangita Lamichhane
 
 ### Table of contents 
 
