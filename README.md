@@ -62,8 +62,12 @@ E. Predictions
 
 **7. Limitation and Future Considerations**
 
-
-
+Gather more historical data to help make stronger predictions and forecasts further into the future.
+Include exogenous variables from census data to add complexity to the univariate model.
+Implement a Facebook Prophet model for comparision and model evaluation.
+Use incoming data to evaluate our model's forecasting performance
 **Data sources:**
 
+https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z 
 
+https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
