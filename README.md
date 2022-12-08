@@ -23,8 +23,11 @@ This project analyses the available crime data by simple exploratory data analys
   B. Problem Statement
   
 Los Angeles police department is one of the largest in the country, with jurisdiction of around 4 million people. Through this project we aim to identify which areas and populations in LA have been hit the hardest by crime in past few years. Furthermore, this project studied the following business problem from the data:
+
 1.Areas in LA with highest reported crime.
+
 2.Crime changes during the time period of study
+
 3.Top impacted demographics in LA.
 
 
