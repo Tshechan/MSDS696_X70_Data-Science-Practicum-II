@@ -59,7 +59,8 @@ We collected the datas and performed data cleaning. We check if there are any mi
 
 **5. Model Approach**
 
-For the analysis, we have done simple EDA based approach to answer the business questions as well as used time series ARIMA model for predicting the crime. Univariate time series modeling is used to forecast reported crime in Los Angeles to determine crime trends in LA. Working with AR, MA, ARMA, and SARIMA models we determined the best fit with the lowest AIC score. Then evaluated our best model, a SARIMA model, using RMSE and AIC. The final model had an RMSE of 24.66.
+For the analysis, we have done simple EDA based approach to answer the business questions as well as used time series ARIMA model for predicting the crime. Univariate time series modeling is used to forecast reported crime in Los Angeles to determine crime trends in LA. Working with AR, MA, ARMA, and SARIMA models we determined the best fit with the lowest AIC score. Then evaluated our best model, a SARIMA model, using RMSE and AIC. The final model had an RMSE ??????
+
 **6. Conclusion**
 
 
