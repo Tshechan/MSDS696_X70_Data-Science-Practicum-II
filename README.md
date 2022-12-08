@@ -33,8 +33,8 @@ Los Angeles police department is one of the largest in the country, with jurisdi
 
 **2. Data Collection**
 
-The crime data  Los Angles Crime data  for this project will be taken from the city of Los Angeles website.
-The data reflects incidents of crime in the City of Los Angeles
+The crime data  Los Angles Crime data  for this project is taken from the city of Los Angeles website.
+The data reflects incidents of crime in the City of Los Angeles from 2010 to 2022.
 
 
 **3. Generic Flow Of Project**
