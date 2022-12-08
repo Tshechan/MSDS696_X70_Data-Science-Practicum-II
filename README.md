@@ -14,12 +14,12 @@
   
 The year of 2020 had a historic rise of demonstrations across the United States calling to 'Defund the Police.' The funding trend of increasing police spending was reversed for the first time in years by reducing the Los Angeles Police Department (LAPD) budget by $150 million.
 
-In this project, we have analyzed the available crime data by simple exploratory data analysis and using Machine learning to predict the crimes that occur in Los Angeles.
+This project analyses the available crime data by simple exploratory data analysis and using Machine learning to predict the crimes that occur in Los Angeles.
 
 
   B. Problem Statement
   
-Los Angeles police department is one of the largest in the country, with jurisdiction of around 4 million people. Through this project we identified which areas and populations in LA have been hit the hardest by crime in past few years. Furthermore, this project studied the following business problem from the data:
+Los Angeles police department is one of the largest in the country, with jurisdiction of around 4 million people. Through this project we aim to identify which areas and populations in LA have been hit the hardest by crime in past few years. Furthermore, this project studied the following business problem from the data:
 1. Crime changes during the time period of study
 2. Areas in LA with highest reported crime.
 3. Top impacted demographics in LA.
@@ -45,14 +45,10 @@ E. Predictions
 
 **4. EDA**
 
-      
-
-  
-
+We collected the datas and performed data cleaning. We check if there are any missig values and worked on those missing values as well as changing date format.    
+ 
 **5. Model Approach**
-
-
-
+For the analysis, we have done simple EDA based approach to answer the business questions as well as used time series ARIMA model for predicting the crime. 
 
 **6. Conclusion**
 
@@ -65,7 +61,8 @@ E. Predictions
 Gather more historical data to help make stronger predictions and forecasts further into the future.
 Include exogenous variables from census data to add complexity to the univariate model.
 Implement a Facebook Prophet model for comparision and model evaluation.
-Use incoming data to evaluate our model's forecasting performance
+Use incoming data to evaluate our model's forecasting performance.
+
 **Data sources:**
 
 https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z 
