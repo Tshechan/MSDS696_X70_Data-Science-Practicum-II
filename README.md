@@ -18,6 +18,7 @@ The year of 2020 had a historic rise of demonstrations across the United States 
 
 This project analyses the available crime data by simple exploratory data analysis and using Machine learning to predict the crimes that occur in Los Angeles.
 
+![Screen Shot 2022-12-08 at 11 45 48 AM](https://user-images.githubusercontent.com/109038700/206540968-cf823fb5-24dd-4e0b-b59f-95f1a864b12a.png)
 
   B. Problem Statement
   
