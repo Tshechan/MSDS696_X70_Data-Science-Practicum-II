@@ -1,14 +1,14 @@
 # MSDS696_X70_Data-Science-Practicum-II
 
-## Crime Data Analysis-Los Angeles
+# Crime Data Analysis-Los Angeles
 
-## Author: Sangita Lamichhane
+# Author: Sangita Lamichhane
 
-## Overview
+# Overview
 
-## Business Problem
+# Business Problem
 
-## Data
+# Data
 
 
-## Methods
+# Methods
