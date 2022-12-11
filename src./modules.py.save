@@ -1,0 +1,2 @@
+    # Import adfuller
+from statsmodels.tsa.stattools import adfulle
