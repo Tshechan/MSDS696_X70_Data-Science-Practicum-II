@@ -59,10 +59,19 @@ We collected the datas and performed data cleaning. We check if there are any mi
 
 **5. Model Approach**
 
-For the analysis, we have done simple EDA based approach to answer the business questions as well as used time series ARIMA model for predicting the crime. Univariate time series modeling is used to forecast reported crime in Los Angeles to determine crime trends in LA. Working with AR, MA, ARMA, and SARIMA models we determined the best fit with the lowest AIC score. Then evaluated our best model, a SARIMA model, using RMSE and AIC. The final model had an RMSE 51.8 with AIC 722.89
+For the analysis, we have done simple EDA based approach to answer the business questions as well as used time series ARIMA model for predicting the crime. Univariate time series modeling is used to forecast reported crime in Los Angeles to determine crime trends in LA. Working with AR, MA, ARMA, and SARIMA models we determined the best fit with the lowest AIC score. Then evaluated our best model, a SARIMA model, using RMSE and AIC. The final model had an RMSE 51.8 with AIC 722.89.
+
+![image](https://user-images.githubusercontent.com/109038700/207454310-6a024517-efd8-4ec5-9a7f-8804195ac197.png)
 
 
+**6. Conclusion**
+From our explorative data analysis, our model predicted a slight decrease in crime rate from 2017 onwards. The funding for LAPD should be redistributed to social service solutions to public safety problems in the high crime areas such as 77th Street, Southwest, and Pacific. 
+ 
+We can see the top vulnerable communities in LA is Black and Latina communities. The highest crime area seems to be 77th street and Southwest in LA. White community seems to be least vulnerable but one of the reasons could be there are less white population compared to others in those area.
+ 
+Year 2017 saw the highest average number of crimes reported, while 2013 saw the lowest average number of crimes reported in LA. Additionally, we can see decreasing trend of average crime from 2017 onwards.
 
+ 
 **7. Limitation and Future Considerations**
 
 Gathering more historical data could help make stronger predictions and forecasts further into the future.
