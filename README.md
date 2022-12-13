@@ -18,7 +18,8 @@ The year of 2020 had a historic rise of demonstrations across the United States 
 
 This project analyses the available crime data by simple exploratory data analysis and using Machine learning to predict the crimes that occur in Los Angeles.
 
-![Screen Shot 2022-12-08 at 11 45 48 AM](https://user-images.githubusercontent.com/109038700/206540968-cf823fb5-24dd-4e0b-b59f-95f1a864b12a.png)
+![image](https://user-images.githubusercontent.com/109038700/207454701-94631eb5-d9fb-4500-b997-9f93ff112970.png)
+
 
   B. Problem Statement
   
@@ -65,6 +66,7 @@ For the analysis, we have done simple EDA based approach to answer the business 
 
 
 **6. Conclusion**
+
 From our explorative data analysis, our model predicted a slight decrease in crime rate from 2017 onwards. The funding for LAPD should be redistributed to social service solutions to public safety problems in the high crime areas such as 77th Street, Southwest, and Pacific. 
  
 We can see the top vulnerable communities in LA is Black and Latina communities. The highest crime area seems to be 77th street and Southwest in LA. White community seems to be least vulnerable but one of the reasons could be there are less white population compared to others in those area.
@@ -84,4 +86,4 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z
 
 https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
 
-Note: I could not attach the data files and clean dataset being so huge in size.
+**Note: I could not attach the data files and clean dataset being so huge in size.**
