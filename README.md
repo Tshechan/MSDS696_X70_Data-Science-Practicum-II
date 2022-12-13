@@ -74,3 +74,5 @@ Additionally, use incoming data to evaluate our model's forecasting performance.
 https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z 
 
 https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
+
+Note: I could not attach the data files and clean dataset being so huge in size.
